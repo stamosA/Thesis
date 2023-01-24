@@ -1,0 +1,2 @@
+In the context of this thesis we were given a dataset in excel, which contained data from pump repair operations of the company "Hellenic Petroleum" of the year 2017 at the facilities of Aspropyrgos. The implementation language of the project was python and the prefered IDE was spyder. For the purpose of the data-analysis project we used the following libraries of python:
+Pandas,Numpy,Matplotlib.
